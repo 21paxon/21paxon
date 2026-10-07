@@ -1,6 +1,50 @@
-<p align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?user=21paxon&theme=dark" alt="21paxon Terminal Card" width="100%" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="45%" align="center">
+<pre>
+                      .::-========-::.                      
+                 .:+#%@@@@@@@@@@@@@@@@%*=-:                 
+              .-*@@@@@@@@@@@@@@@@@@@@@@@@@@*-.              
+            .-%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-             
+           :*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*:           
+          -#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-          
+         -#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-         
+        :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:        
+        *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*        
+       :@@@@@@@@@@@@@%###%@@@@@@%###%@@@@@@@@@@@@@@%:       
+       +@@@@@@@@@@@%*     -%@@%-     *%@@@@@@@@@@@@+       
+       +@@@@@@@@@@@#  ===  :@@:  ===  #@@@@@@@@@@@@+       
+       :@@@@@@@@@@@@#     -#@@#-     #@@@@@@@@@@@@%:       
+        *@@@@@@@@@@@@@%##%@@@@@@%##%@@@@@@@@@@@@@@*        
+        :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:        
+         -#@@@@@@@@@@@@@@%*====*%@@@@@@@@@@@@@@@@#-         
+          -#@@@@@@@@@@@@@:      :@@@@@@@@@@@@@@@#-          
+           :*@@@@@@@@@@@@%*====*%\@@@@@@@@@@@@@*:           
+            .-%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-             
+              .-*@@@@@@@@@@@@@@@@@@@@@@@@@@*-.              
+            :+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+:            
+         .=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=-.        
+       :*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*:       
+     -#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-     
+   -#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-   
+</pre>
+      </td>
+      <td width="55%" valign="middle">
+        <code><b>21paxon@github</b></code><br>
+        <code>---------------------------------------</code><br>
+        <code>. <b>Name:</b> Pacifique Niyogushimwa</code><br>
+        <code>. <b>Role:</b> Full-Stack & IoT Systems Engineer</code><br>
+        <code>. <b>Edu:</b> BTech IT @ RP Musanze College</code><br>
+        <code>. <b>Location:</b> Kigali, Rwanda</code><br>
+        <code>---------------------------------------</code><br>
+        <code>. <b>Instagram:</b> instagram.com/__pacifique_</code><br>
+        <code>. <b>LinkedIn:</b> linkedin.com</code><br>
+        <code>. <b>GitHub:</b> github.com/21paxon</code><br>
+      </td>
+    </tr>
+  </table>
+</div>
 
 # 💫 About Me:
 
@@ -16,6 +60,7 @@ I build practical software solutions, from web applications and REST APIs to ent
 
 ### 🌐 Socials:
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__pacifique_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyogushimwapacifique6@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://yourportfolio.com)
