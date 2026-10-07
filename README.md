@@ -1,36 +1,10 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="45%" align="center">
-<pre>
-                      .::-========-::.                      
-                 .:+#%@@@@@@@@@@@@@@@@%*=-:                 
-              .-*@@@@@@@@@@@@@@@@@@@@@@@@@@*-.              
-            .-%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-             
-           :*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*:           
-          -#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-          
-         -#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-         
-        :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:        
-        *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*        
-       :@@@@@@@@@@@@@%###%@@@@@@%###%@@@@@@@@@@@@@@%:       
-       +@@@@@@@@@@@%*     -%@@%-     *%@@@@@@@@@@@@+       
-       +@@@@@@@@@@@#  ===  :@@:  ===  #@@@@@@@@@@@@+       
-       :@@@@@@@@@@@@#     -#@@#-     #@@@@@@@@@@@@%:       
-        *@@@@@@@@@@@@@%##%@@@@@@%##%@@@@@@@@@@@@@@*        
-        :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:        
-         -#@@@@@@@@@@@@@@%*====*%@@@@@@@@@@@@@@@@#-         
-          -#@@@@@@@@@@@@@:      :@@@@@@@@@@@@@@@#-          
-           :*@@@@@@@@@@@@%*====*%\@@@@@@@@@@@@@*:           
-            .-%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-             
-              .-*@@@@@@@@@@@@@@@@@@@@@@@@@@*-.              
-            :+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+:            
-         .=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=-.        
-       :*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*:       
-     -#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-     
-   -#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-   
-</pre>
+      <td width="30%" align="center">
+        <img src="https://github.com/21paxon.png" width="180px" style="border-radius: 50%;" alt="Pacifique Niyogushimwa" />
       </td>
-      <td width="55%" valign="middle">
+      <td width="70%" valign="middle">
         <code><b>21paxon@github</b></code><br>
         <code>---------------------------------------</code><br>
         <code>. <b>Name:</b> Pacifique Niyogushimwa</code><br>
@@ -38,6 +12,7 @@
         <code>. <b>Edu:</b> BTech IT @ RP Musanze College</code><br>
         <code>. <b>Location:</b> Kigali, Rwanda</code><br>
         <code>---------------------------------------</code><br>
+        <code>. <b>Portfolio:</b> pacifiqueniyogushimwa.netlify.app</code><br>
         <code>. <b>Instagram:</b> instagram.com/__pacifique_</code><br>
         <code>. <b>LinkedIn:</b> linkedin.com</code><br>
         <code>. <b>GitHub:</b> github.com/21paxon</code><br>
@@ -58,20 +33,21 @@ I build practical software solutions, from web applications and REST APIs to ent
 
 ---
 
-### 🌐 Socials:
+### 🌐 Socials & Portfolio:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://pacifiqueniyogushimwa.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__pacifique_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyogushimwapacifique6@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://yourportfolio.com)
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack & Deployment Tools:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -81,6 +57,9 @@ I build practical software solutions, from web applications and REST APIs to ent
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
