@@ -22,6 +22,8 @@
   <img src="https://komarev.com/ghpvc/?username=21paxon&label=Profile%20views&color=007ACC&style=flat" alt="Profile views" />
 </div>
 
+---
+
 # 💫 About Me:
 
 Hi 👋, I'm **Pacifique Niyogushimwa**
@@ -30,9 +32,9 @@ Hi 👋, I'm **Pacifique Niyogushimwa**
 
 I build practical software solutions, from web applications and REST APIs to enterprise network infrastructure and IoT systems. Passionate about creating scalable technology that solves real-world problems.
 
-- 🎓 **Education:** Pursuing a Bachelor of Technology in Information Technology at Rwanda Polytechnic (RP) Musanze College
-- 👨‍🏫 **Currently:** Teaching software engineering and networking at Muhanga Technical Center
-- 🔭 **Focus:** Backend development with Java & Spring Boot, Cisco networking, and IoT with Arduino / ESP32
+- 🎓 **Education:** Pursuing a Bachelor of Technology in Information Technology at Rwanda Polytechnic (RP) Musanze College[cite: 6]
+- 👨‍🏫 **Currently:** Teaching software engineering and networking at Muhanga Technical Center[cite: 7]
+- 🔭 **Focus:** Backend development with Java & Spring Boot, Cisco networking, and IoT with Arduino / ESP32[cite: 7, 8]
 - 🤝 **Open to:** Collaborations, internships, and full-stack / IoT opportunities
 
 ---
@@ -41,15 +43,14 @@ I build practical software solutions, from web applications and REST APIs to ent
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://pacifiqueniyogushimwa.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__pacifique_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyogushimwapacifique6@gmail.com)
 
 ---
 
 ### 💻 Tech Stack & Tools:
 
-**Languages & Frameworks**
-
+#### **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,8 +62,7 @@ I build practical software solutions, from web applications and REST APIs to ent
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Databases, Systems & Hardware**
-
+#### **Databases, Systems & Hardware**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -70,8 +70,7 @@ I build practical software solutions, from web applications and REST APIs to ent
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-**Deployment & Version Control**
-
+#### **Deployment & Version Control**
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -92,48 +91,56 @@ I build practical software solutions, from web applications and REST APIs to ent
 ### 💼 Career & Professional Experience:
 
 #### **IT Instructor** | *Muhanga Technical Center*
-`Sep 2025 – Present` • *Muhanga, Rwanda*
-- 🎓 **Technical Pedagogy:** Deliver hands-on training in software engineering, computer networking, and core IT systems.
-- 💡 **Project Supervision:** Guide and evaluate student technical projects, enforcing clean code, database standards, and modern deployment workflows.
-- 🛠️ **Curriculum & Mentorship:** Mentor aspiring technicians in practical troubleshooting, system development, and real-world problem-solving.
+`Sep 2025 – Present` • *Muhanga, Rwanda*[cite: 7]
+- 🎓 **Technical Pedagogy:** Deliver hands-on training in software engineering, computer networking, and core IT systems[cite: 7].
+- 💡 **Project Supervision:** Guide and evaluate student technical projects, enforcing clean code, database standards, and modern deployment workflows[cite: 7].
+- 🛠️ **Curriculum & Mentorship:** Mentor aspiring technicians in practical troubleshooting, system development, and real-world problem-solving[cite: 7].
 - `Tech Stack:` Java • Spring Boot • Angular • Linux • Cisco Networking
 
 #### **IT Consultant** | *Rwanda Information Society Authority (RISA)*
-`2025` • *Kigali, Rwanda*
-- 🌐 **Infrastructure & Deployment:** Assisted in configuring, deploying, and maintaining essential public-sector IT infrastructure and networks.
-- ⚡ **Performance Optimization:** Diagnosed hardware, software, and system bottlenecks to improve reliability and operational throughput.
-- 🛡️ **Technical Support:** Resolved high-priority network issues and applied baseline cybersecurity practices across municipal systems.
+`2025` • *Kigali, Rwanda*[cite: 7]
+- 🌐 **Infrastructure & Deployment:** Assisted in configuring, deploying, and maintaining essential public-sector IT infrastructure and networks[cite: 7].
+- ⚡ **Performance Optimization:** Diagnosed hardware, software, and system bottlenecks to improve reliability and operational throughput[cite: 7].
+- 🛡️ **Technical Support:** Resolved high-priority network issues and applied baseline cybersecurity practices across municipal systems[cite: 7].
 - `Tech Stack:` System Administration • Active Directory • Network Security • Enterprise Hardware
 
 #### **IT Support Specialist** | *VTC Ltd*
-`2024` • *Rwanda*
-- 🔧 **Systems Maintenance:** Delivered Tier-2 technical support across endpoints, software applications, and hardware workstations.
-- ⏱️ **Uptime Management:** Performed software installations, network patches, and preventative maintenance to minimize downtime.
-- 🤝 **User Support:** Trained non-technical staff on internal system tools and security best practices.
+`2024` • *Rwanda*[cite: 7]
+- 🔧 **Systems Maintenance:** Delivered Tier-2 technical support across endpoints, software applications, and hardware workstations[cite: 7].
+- ⏱️ **Uptime Management:** Performed software installations, network patches, and preventative maintenance to minimize downtime[cite: 7].
+- 🤝 **User Support:** Trained non-technical staff on internal system tools and security best practices[cite: 7].
 - `Tech Stack:` Hardware Diagnostics • Network Configuration • OS Maintenance • Technical Support
 
 ---
 
 ### 🚀 Featured Engineering Projects:
 
-- 🏥 **IoT Patient Monitoring System:** Real-time health monitoring using embedded sensors for remote patient telemetry. `ESP32` `Arduino` `Sensors`
-- 🚌 **Bus Booking System:** RESTful backend for scheduling and ticket reservation. `Java` `Spring Boot`
-- 🔒 **Smart Security System:** Automated security solution with Arduino microcontrollers, ultrasonic sensors, and alerts. `Arduino` `Ultrasonic`
-- 📦 **Inventory & Resource Management System:** Stock tracking and inventory management software backed by MySQL. `MySQL`
+- 🏥 **IoT Patient Monitoring System:** Real-time health monitoring using embedded sensors for remote patient telemetry[cite: 8].  
+  `Tech Stack:` `ESP32` `Arduino` `Sensors`
+- 🚌 **Bus Booking System:** RESTful backend for scheduling and ticket reservation[cite: 7, 8].  
+  `Tech Stack:` `Java` `Spring Boot` `REST API`
+- 🔒 **Smart Security System:** Automated security solution with Arduino microcontrollers, ultrasonic sensors, and alerts[cite: 7, 8].  
+  `Tech Stack:` `Arduino` `Ultrasonic` `C++`
+- 📦 **Inventory & Resource Management System:** Stock tracking and inventory management software backed by MySQL[cite: 8].  
+  `Tech Stack:` `MySQL` `Java` `Spring Boot`
 
-<!-- Tip: link each project to its repo, e.g. [Bus Booking System](https://github.com/21paxon/REPO-NAME) -->
+> 💡 *Tip: Link each project title above to its repository, e.g., `[Bus Booking System](https://github.com/21paxon/REPO-NAME)`*
 
 ---
 
 ### 🎓 Education & Certifications:
 
-- **Bachelor of Technology in Information Technology** — RP Musanze College (*In Progress*)
-- **Software Development Certification** (DTP) | **Cybersecurity Certification** (DTP)
-- **AI Career Essentials** — ALX Africa | **EF SET English Certificate** (B2 Upper Intermediate)
+- **Bachelor of Technology in Information Technology** — RP Musanze College (*In Progress*)[cite: 6]
+- **Software Development Certification** (DTP)[cite: 6] | **Cybersecurity Certification** (DTP)[cite: 6]
+- **AI Career Essentials** — ALX Africa[cite: 6] | **EF SET English Certificate** (B2 Upper Intermediate)[cite: 6]
 
 ---
 
 ### 📫 Let's Connect:
 
-Have a project, idea, or opportunity? I'd love to hear from you.
-**Email:** [niyogushimwapacifique6@gmail.com](mailto:niyogushimwapacifique6@gmail.com) • **Portfolio:** [pacifiqueniyogushimwa.netlify.app](https://pacifiqueniyogushimwa.netlify.app/)
+Have a project, idea, or opportunity? I'd love to hear from you!
+
+- ✉️ **Email:** [niyogushimwapacifique6@gmail.com](mailto:niyogushimwapacifique6@gmail.com)
+- 🌐 **Portfolio:** [pacifiqueniyogushimwa.netlify.app](https://pacifiqueniyogushimwa.netlify.app/)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com)
+- 📸 **Instagram:** [__pacifique_](https://instagram.com/__pacifique_)
