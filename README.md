@@ -1,28 +1,3 @@
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="100%" align="left">
-        <code>— <b>21paxon@github</b> .................................</code><br>
-        <code>. <b>Name:</b> ................... Pacifique Niyogushimwa</code><br>
-        <code>. <b>Role:</b> .... Full-Stack & IoT Systems Engineer</code><br>
-        <code>. <b>Edu:</b> ........... BTech IT @ RP Musanze College</code><br>
-        <code>. <b>Work:</b> ...... IT Instructor @ Muhanga Tech Center</code><br>
-        <code>. <b>Location:</b> ..................... Kigali, Rwanda</code><br><br>
-        <code>— <b>Contact & Links</b> ................................</code><br>
-        <code>. <b>Website:</b> ... https://pacifiqueniyogushimwa.netlify.app/</code><br>
-        <code>. <b>Email:</b> ... niyogushimwapacifique6@gmail.com</code><br>
-        <code>. <b>Instagram:</b> ........ instagram.com/__pacifique_</code><br>
-        <code>. <b>GitHub:</b> .................. github.com/21paxon</code><br>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=21paxon&label=Profile%20views&color=007ACC&style=flat" alt="Profile views" />
-</div>
-
----
 
 # 💫 About Me:
 
