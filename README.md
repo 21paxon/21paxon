@@ -1,116 +1,112 @@
-# Hi, I'm Pacifique Niyogushimwa
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi, I'm Pacifique Niyogushimwa</h1>
+<h3 align="center">Full-Stack Developer · Network Engineer · IoT & Cybersecurity Enthusiast</h3>
 
-### Full-Stack Developer | Network Engineer | IoT Systems Specialist
+<p align="center">
+  I build practical technology solutions across software development, networking, and connected devices.
+  I'm also exploring Artificial Intelligence and cybersecurity to create systems that are useful, secure, and reliable.
+</p>
 
-I build practical technology solutions, from web applications and REST APIs to computer networks and IoT systems. I enjoy learning new technologies and turning ideas into useful, real-world solutions.
-
-- **Education:** Bachelor of Technology in Information Technology — Rwanda Polytechnic, Musanze College
-- **Development:** Java, Spring Boot, Python, JavaScript, TypeScript, and Angular
-- **Networking:** Cisco networking, Linux, and IT infrastructure
-- **IoT:** ESP32, Arduino, sensors, and connected systems
-- **Currently learning:** Machine Learning with Python and Scikit-learn
-- **Open to:** Collaborations, internships, and technology opportunities
-
----
-
-## Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-111111?style=for-the-badge&logo=netlify&logoColor=white)](https://pacifiqueniyogushimwa.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pacifique-niyogushimwa-b689033ab)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__pacifique_)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyogushimwapacifique6@gmail.com)
+<p align="center">
+  <a href="https://pacifiqueniyogushimwa.netlify.app/"><strong>Portfolio</strong></a> ·
+  <a href="https://linkedin.com/in/pacifique-niyogushimwa-b689033ab"><strong>LinkedIn</strong></a> ·
+  <a href="mailto:niyogushimwapacifique6@gmail.com"><strong>Email me</strong></a>
+</p>
 
 ---
+
+## About Me
+
+- 🎓 **Education:** Bachelor of Technology in Information Technology — Rwanda Polytechnic, Musanze College
+- 💻 **Software development:** Java, Spring Boot, JavaScript, TypeScript, Angular, and Python
+- 🌐 **Networking & systems:** Cisco networking, Linux, and IT infrastructure
+- 🔐 **Cybersecurity:** Interested in secure systems, cyber awareness, and protecting digital infrastructure
+- 📡 **Internet of Things:** Building ideas with ESP32, sensors, Wi-Fi, and web dashboards
+- 🤖 **Artificial Intelligence:** Learning Machine Learning with Python and Scikit-learn
+- 🤝 **Open to:** Collaboration, practical projects, and technology opportunities
 
 ## Technical Skills
 
-### Languages & Frameworks
+**Programming & Frameworks**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+</p>
 
-### Databases & Systems
+**Databases, Networking & IoT**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco Networking](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
 
-### Tools & Deployment
+**Tools & Deployment**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
----
+## Projects
 
-## Featured Projects
+### 1. Bus Booking System
+A software project for managing trips and bookings, with a focus on backend services and REST API development.
 
-### 1. Machine Learning — Student Performance & Linear Regression
+**Stack:** Java · Spring Boot · Maven  
+[View repository](https://github.com/21paxon/busbooking)
 
-Exploring Machine Learning with Python and Scikit-learn, starting with regression models and a student performance dataset. Learning data exploration, preprocessing, model training, prediction, and evaluation.
+### 2. Smart Security System Using IoT
+A project concept for monitoring restricted spaces, detecting movement, and supporting remote monitoring through a web dashboard.
 
-**Technologies:** Python, Pandas, Scikit-learn
+**Stack:** ESP32 · Sensors · Wi-Fi · Web Dashboard
 
-[View Project Repository](https://github.com/21paxon/ML_Project)
+### 3. Machine Learning Practice
+Learning the Machine Learning workflow with Python, including data preparation, regression, model training, prediction, and evaluation.
 
-### 2. Bus Booking System
-
-A software project focused on bus trip management, booking operations, and REST API development.
-
-**Technologies:** Java, Spring Boot, Maven, REST API
-
-[View Project Repository](https://github.com/21paxon/busbooking)
-
-### 3. Smart Security System Using IoT
-
-An IoT project focused on monitoring restricted spaces, detecting movement, and supporting remote security alerts.
-
-**Technologies:** ESP32, Sensors, Wi-Fi, Web Dashboard
+**Stack:** Python · Pandas · Scikit-learn  
+[View repository](https://github.com/21paxon/ML_Project)
 
 ### 4. Inventory & Resource Management
+A database-backed application concept for recording inventory and tracking resources.
 
-A software project for managing inventory records and tracking resources using a database-backed application.
+**Stack:** Java · Spring Boot · MySQL
 
-**Technologies:** Java, Spring Boot, MySQL
+## GitHub Overview
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=21paxon&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21paxon&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p>
 
-## GitHub Statistics
+## Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21paxon&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=21paxon&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## Education & Certifications
-
-- **Bachelor of Technology in Information Technology** — Rwanda Polytechnic, Musanze College
-- **Software Development Certification** — DTP
-- **Cybersecurity Certification** — DTP
+- **Software Development** — DTP
+- **Cybersecurity** — DTP
 - **AI Career Essentials** — ALX Africa
 - **EF SET English Certificate** — B2 Upper Intermediate
 
 ---
 
-## Let's Build Something Useful
+## Connect With Me
 
-I'm interested in software development, networking, IoT, and Machine Learning. I'm always open to connecting with developers, sharing ideas, learning together, and collaborating on meaningful technology projects.
+- **Portfolio:** https://pacifiqueniyogushimwa.netlify.app/
+- **LinkedIn:** https://linkedin.com/in/pacifique-niyogushimwa-b689033ab
+- **GitHub:** https://github.com/21paxon
+- **Email:** niyogushimwapacifique6@gmail.com
 
-**Email:** [niyogushimwapacifique6@gmail.com](mailto:niyogushimwapacifique6@gmail.com)
-
-**Portfolio:** [pacifiqueniyogushimwa.netlify.app](https://pacifiqueniyogushimwa.netlify.app/)
-
-**LinkedIn:** [Pacifique Niyogushimwa](https://linkedin.com/in/pacifique-niyogushimwa-b689033ab)
+I'm interested in building useful software, exploring secure and connected systems, and collaborating with people who enjoy solving real-world problems.
