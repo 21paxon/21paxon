@@ -1,16 +1,15 @@
-
 # Hi, I'm Pacifique Niyogushimwa
 
 ### Full-Stack Developer | Network Engineer | IoT Systems Specialist
 
 I build practical technology solutions, from web applications and REST APIs to computer networks and IoT systems. I enjoy learning new technologies and turning ideas into useful, real-world solutions.
 
-- 🎓 **Education:** Bachelor of Technology in Information Technology — Rwanda Polytechnic, Musanze College
-- 💻 **Development:** Java, Spring Boot, Python, JavaScript, TypeScript and Angular
-- 🌐 **Networking:** Cisco networking, Linux and IT infrastructure
-- 🔌 **IoT:** ESP32, Arduino, sensors and connected systems
-- 🤖 **Currently learning:** Machine Learning with Python and Scikit-learn
-- 🤝 **Open to:** Collaborations, internships and technology opportunities
+- **Education:** Bachelor of Technology in Information Technology — Rwanda Polytechnic, Musanze College
+- **Development:** Java, Spring Boot, Python, JavaScript, TypeScript, and Angular
+- **Networking:** Cisco networking, Linux, and IT infrastructure
+- **IoT:** ESP32, Arduino, sensors, and connected systems
+- **Currently learning:** Machine Learning with Python and Scikit-learn
+- **Open to:** Collaborations, internships, and technology opportunities
 
 ---
 
@@ -43,7 +42,7 @@ I build practical technology solutions, from web applications and REST APIs to c
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Networking](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
@@ -58,26 +57,30 @@ I build practical technology solutions, from web applications and REST APIs to c
 
 ## Featured Projects
 
-### 1. Machine Learning — Linear Regression
-My first Machine Learning project using Python and Scikit-learn. The model learns from training data and predicts exam scores based on study hours.
+### 1. Machine Learning — Student Performance & Linear Regression
 
-**Technologies:** Python, Scikit-learn, Linear Regression
+Exploring Machine Learning with Python and Scikit-learn, starting with regression models and a student performance dataset. Learning data exploration, preprocessing, model training, prediction, and evaluation.
+
+**Technologies:** Python, Pandas, Scikit-learn
 
 [View Project Repository](https://github.com/21paxon/ML_Project)
 
 ### 2. Bus Booking System
-A software project focused on bus trip management, booking operations and REST API development.
+
+A software project focused on bus trip management, booking operations, and REST API development.
 
 **Technologies:** Java, Spring Boot, Maven, REST API
 
 [View Project Repository](https://github.com/21paxon/busbooking)
 
 ### 3. Smart Security System Using IoT
-An IoT project focused on monitoring restricted spaces, detecting movement and supporting remote security alerts.
+
+An IoT project focused on monitoring restricted spaces, detecting movement, and supporting remote security alerts.
 
 **Technologies:** ESP32, Sensors, Wi-Fi, Web Dashboard
 
 ### 4. Inventory & Resource Management
+
 A software project for managing inventory records and tracking resources using a database-backed application.
 
 **Technologies:** Java, Spring Boot, MySQL
