@@ -1,33 +1,38 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi, I'm Pacifique Niyogushimwa</h1>
+<h1 align="center">Pacifique Niyogushimwa</h1>
 <h3 align="center">Full-Stack Developer · Network Engineer · IoT & Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  I build practical technology solutions across software development, networking, and connected devices.
-  I'm also exploring Artificial Intelligence and cybersecurity to create systems that are useful, secure, and reliable.
+  I build secure, reliable software and connected systems, from backend APIs to IoT devices and network infrastructure.
 </p>
 
 <p align="center">
-  <a href="https://pacifiqueniyogushimwa.netlify.app/"><strong>Portfolio</strong></a> ·
-  <a href="https://linkedin.com/in/pacifique-niyogushimwa-b689033ab"><strong>LinkedIn</strong></a> ·
-  <a href="mailto:niyogushimwapacifique6@gmail.com"><strong>Email me</strong></a>
+  <a href="https://pacifiqueniyogushimwa.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/pacifique-niyogushimwa-b689033ab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:niyogushimwapacifique6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## About Me
+## 👋 About Me
 
-- 🎓 **Education:** Bachelor of Technology in Information Technology — Rwanda Polytechnic, Musanze College
-- 💻 **Software development:** Java, Spring Boot, JavaScript, TypeScript, Angular, and Python
-- 🌐 **Networking & systems:** Cisco networking, Linux, and IT infrastructure
-- 🔐 **Cybersecurity:** Interested in secure systems, cyber awareness, and protecting digital infrastructure
-- 📡 **Internet of Things:** Building ideas with ESP32, sensors, Wi-Fi, and web dashboards
-- 🤖 **Artificial Intelligence:** Learning Machine Learning with Python and Scikit-learn
-- 🤝 **Open to:** Collaboration, practical projects, and technology opportunities
+I'm an IT graduate-level developer based in Rwanda with a *Bachelor of Technology in Information Technology* from **Rwanda Polytechnic, Musanze College**. My work sits at the intersection of software, networking, and embedded devices, and I'm building on that foundation with Machine Learning and cybersecurity.
 
-## Technical Skills
+| | |
+|---|---|
+| 💻 **Software Development** | Java, Spring Boot, JavaScript, TypeScript, Angular, Python |
+| 🌐 **Networking & Systems** | Cisco networking, Linux, IT infrastructure |
+| 📡 **IoT** | ESP32, sensors, Wi-Fi, web dashboards |
+| 🔐 **Cybersecurity** | Secure system design, cyber awareness, protecting digital infrastructure |
+| 🤖 **AI / ML** | Python, Pandas, Scikit-learn (currently learning) |
 
-**Programming & Frameworks**
+**Currently:** deepening Spring Boot and REST API design, building IoT prototypes, and learning applied Machine Learning.
+**Open to:** collaboration, internships and junior roles, and practical projects.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -48,7 +53,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
@@ -62,51 +67,56 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-## Projects
+---
 
-### 1. Bus Booking System
-A software project for managing trips and bookings, with a focus on backend services and REST API development.
+## 🚀 Featured Projects
 
-**Stack:** Java · Spring Boot · Maven  
-[View repository](https://github.com/21paxon/busbooking)
+### 🚌 Bus Booking System
+Backend application for managing bus trips and passenger bookings, built around REST API design.
+**Stack:** Java · Spring Boot · Maven
+🔗 [View repository](https://github.com/21paxon/busbooking)
 
-### 2. Smart Security System Using IoT
-A project concept for monitoring restricted spaces, detecting movement, and supporting remote monitoring through a web dashboard.
-
+### 🔒 Smart Security System (IoT)
+Monitoring system for restricted spaces that detects movement and reports to a remote web dashboard.
 **Stack:** ESP32 · Sensors · Wi-Fi · Web Dashboard
+🚧 *In development*
 
-### 3. Machine Learning Practice
-Learning the Machine Learning workflow with Python, including data preparation, regression, model training, prediction, and evaluation.
-
-**Stack:** Python · Pandas · Scikit-learn  
-[View repository](https://github.com/21paxon/ML_Project)
-
-### 4. Inventory & Resource Management
-A database-backed application concept for recording inventory and tracking resources.
-
+### 📦 Inventory & Resource Management
+Database-backed application for recording inventory and tracking resources.
 **Stack:** Java · Spring Boot · MySQL
+🚧 *In development*
 
-## GitHub Overview
+### 🤖 Machine Learning Practice
+Hands-on exploration of the ML workflow: data preparation, regression, model training, prediction, and evaluation.
+**Stack:** Python · Pandas · Scikit-learn
+🔗 [View repository](https://github.com/21paxon/ML_Project)
+
+---
+
+## 🎓 Certifications
+
+| Certification | Issuer |
+|---|---|
+| Software Development | DTP |
+| Cybersecurity | DTP |
+| AI Career Essentials | ALX Africa |
+| EF SET English Certificate (B2, Upper Intermediate) | EF SET |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=21paxon&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21paxon&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
 
-## Certifications
-
-- **Software Development** — DTP
-- **Cybersecurity** — DTP
-- **AI Career Essentials** — ALX Africa
-- **EF SET English Certificate** — B2 Upper Intermediate
-
 ---
 
-## Connect With Me
+## 📫 Let's Connect
 
-- **Portfolio:** https://pacifiqueniyogushimwa.netlify.app/
-- **LinkedIn:** https://linkedin.com/in/pacifique-niyogushimwa-b689033ab
-- **GitHub:** https://github.com/21paxon
-- **Email:** niyogushimwapacifique6@gmail.com
+- 🌍 **Portfolio:** [pacifiqueniyogushimwa.netlify.app](https://pacifiqueniyogushimwa.netlify.app/)
+- 💼 **LinkedIn:** [Pacifique Niyogushimwa](https://linkedin.com/in/pacifique-niyogushimwa-b689033ab)
+- ✉️ **Email:** [niyogushimwapacifique6@gmail.com](mailto:niyogushimwapacifique6@gmail.com)
 
-I'm interested in building useful software, exploring secure and connected systems, and collaborating with people who enjoy solving real-world problems.
+<p align="center"><i>Always happy to talk about building useful, secure software with people who enjoy solving real-world problems.</i></p>
