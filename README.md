@@ -2,6 +2,7 @@
 <h3 align="center">Full-Stack Developer · Network Engineer · IoT & Cybersecurity Enthusiast</h3>
 
 <p align="center">
+  Kigali, Rwanda 🇷🇼<br/>
   I build secure, reliable web, mobile, and backend systems, and connected IoT solutions backed by solid networking.
 </p>
 
@@ -16,20 +17,27 @@
 
 ---
 
-## 👋 About Me
+## 👋 Professional Summary
 
-I'm a developer based in Kigali, Rwanda, with a *Bachelor of Technology in Information Technology* from **Rwanda Polytechnic, Musanze College**. My work sits at the intersection of software, networking, and embedded devices, and I'm building on that foundation with Machine Learning and cybersecurity.
+I'm a developer trained in Information Technology at **Rwanda Polytechnic, Musanze College**. My work sits at the intersection of **software engineering, networking, and embedded devices**: I build REST APIs and full-stack web apps, an Android app, a USSD service, and IoT prototypes, with security treated as a design requirement rather than an afterthought.
 
-| | |
-|---|---|
-| 💻 **Software Development** | Java, Spring Boot, Kotlin, JavaScript, TypeScript, Angular, React, Node.js, Python |
-| 🌐 **Networking & Systems** | Cisco networking, Linux, IT infrastructure |
-| 📡 **IoT** | ESP32, sensors, Wi-Fi, web dashboards |
-| 🔐 **Cybersecurity** | Secure system design, cyber awareness, protecting digital infrastructure |
-| 🤖 **AI / ML** | Python, Pandas, Scikit-learn (currently learning) |
+I care about systems that are **useful, secure, and reliable**, and I'm building on that foundation with Machine Learning and cybersecurity.
 
-**Currently:** building a Campus Security & Reporting System, deepening Spring Boot and REST API design, and learning applied Machine Learning.
-**Open to:** collaboration, internships and junior roles, and practical projects.
+### 🎯 What I Bring
+- **Full-stack delivery:** Java/Spring Boot and Node.js/Express backends with Angular, React, Next.js, and Kotlin (Android) clients.
+- **Security-minded engineering:** JWT authentication, role-based access control, rate-limited logins, parameterized queries, and audit logging.
+- **Database design:** PostgreSQL and MySQL schemas, migrations, and indexed relational models.
+- **Networking & infrastructure:** Cisco networking, Linux, and IT infrastructure, which gives me an end-to-end view of how systems are deployed and connected.
+- **IoT & embedded:** ESP32, sensors, and Wi-Fi connected devices reporting to web dashboards.
+- **Teamwork:** experience building projects in a team using Git and GitHub.
+
+### 🔭 Currently
+- Building the **Campus Security & Reporting System (CSRS)** with my team
+- Deepening Spring Boot and REST API design
+- Learning applied Machine Learning with Python and Scikit-learn
+
+### 🤝 Open To
+Internships and junior roles in **software development, backend engineering, networking, or IoT**, as well as collaboration on practical projects.
 
 ---
 
@@ -57,8 +65,8 @@ I'm a developer based in Kigali, Rwanda, with a *Bachelor of Technology in Infor
 **Databases, Networking & IoT**
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
@@ -70,32 +78,55 @@ I'm a developer based in Kigali, Rwanda, with a *Bachelor of Technology in Infor
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
+### Skills at a Glance
+
+| Area | Skills |
+|---|---|
+| 💻 **Backend** | REST API design, Spring Boot, Node.js/Express, authentication (JWT), role-based access control |
+| 🎨 **Frontend & Mobile** | Angular, React, Next.js, TypeScript, Android (Kotlin, Retrofit) |
+| 🗄️ **Data** | PostgreSQL, MySQL, schema design, migrations |
+| 🌐 **Networking & Systems** | Cisco networking, Linux, IT infrastructure |
+| 📡 **IoT** | ESP32, Arduino, sensors, Wi-Fi, web dashboards |
+| 🔐 **Security** | Secure system design, input validation, audit logging, cyber awareness |
+| 🤖 **AI / ML** | Python, Pandas, Scikit-learn: regression, training, prediction, evaluation |
+| 🧰 **Workflow** | Git/GitHub, Maven, API documentation, deployment on Netlify and Vercel |
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ Campus Security & Reporting System (CSRS)
-Team project for Rwanda Polytechnic, Musanze College that manages campus safety in one place: incident reporting (including anonymous reports with a tracking code), emergency panic alerts with GPS, lost and found, visitor and gate control, security patrols, dashboards and reports, and a full audit log. It uses JWT authentication with role-based access for 7 user roles, plus security hardening (helmet, rate-limited login, parameterized queries).
+### 🛡️ Campus Security & Reporting System (CSRS) &nbsp;`Currently building`
+Team project for Rwanda Polytechnic, Musanze College that manages campus safety in one place.
+
+- **Incident reporting** with evidence uploads, including **anonymous reports** that can be tracked with an access code (stored only as a hash)
+- **Emergency panic alerts** with GPS location and response tracking
+- **Lost & found**, **visitor and gate control**, and **security patrol** management with QR checkpoints
+- **Dashboards and CSV reports** for management, plus a full **audit log** of every state-changing action
+- **Role-based access** for 7 user roles (Admin, Head of Security, Security Officer, College Management, Dean of Students, Staff, Student)
+- **Security hardening:** JWT + bcrypt, helmet, rate-limited login with account lockout, parameterized queries
+- **Quality:** transactional database migrations and a smoke-test suite of about 60 checks across every module
+
 **Stack:** Node.js · Express · PostgreSQL (Neon) · JWT · HTML/CSS/JavaScript
-🚧 *Currently building* · 🔗 [View repository](https://github.com/21paxon/csrs)
+🔗 [View repository](https://github.com/21paxon/csrs)
 
 ### 🚌 Bus Booking System
-Full-stack web application for searching trips, booking tickets, and managing reservations, with an admin dashboard for routes, schedules, and users.
+Full-stack web application for searching trips, booking tickets, and managing reservations, with an admin dashboard for routes, schedules, and users. Includes documented REST API endpoints and trip management notes.
 **Stack:** Java · Spring Boot · Angular · TypeScript · PostgreSQL · Maven
 🔗 [View repository](https://github.com/21paxon/busbooking)
 
 ### 🏨 Hostel Management System
-Android app with a REST backend that lets administrators manage students, hostel rooms, and room allocations.
+Android app with a REST backend that lets administrators register and log in, manage students and hostel rooms, and assign students to rooms.
 **Stack:** Kotlin · Retrofit · Node.js · Express · PostgreSQL
 🔗 [View repository](https://github.com/21paxon/hms)
 
 ### 📱 USSD BMI Calculator
-USSD-based service that calculates Body Mass Index from weight and height, returns the BMI category, and supports English and Kinyarwanda.
+USSD-based service that calculates Body Mass Index from weight and height, returns the BMI category, and supports **English and Kinyarwanda**, making it accessible on any phone without internet.
 **Stack:** Node.js · Express
 🔗 [View repository](https://github.com/21paxon/ussdbmi-app)
 
@@ -104,10 +135,9 @@ Modern portfolio website showcasing my projects and skills.
 **Stack:** Next.js · TypeScript
 🔗 [Live site](https://pacifiqueniyogushimwa.netlify.app/) · [Source](https://github.com/21paxon/portfolio_2)
 
-### 🔒 Smart Security System (IoT)
+### 🔒 Smart Security System (IoT) &nbsp;`In development`
 Monitoring system for restricted spaces that detects movement and reports to a remote web dashboard.
 **Stack:** ESP32 · Sensors · Wi-Fi · Web Dashboard
-🚧 *In development*
 
 ### 🤖 Machine Learning Practice
 Hands-on exploration of the ML workflow: data preparation, regression, model training, prediction, and evaluation.
@@ -118,7 +148,14 @@ Hands-on exploration of the ML workflow: data preparation, regression, model tra
 
 ---
 
-## 🎓 Certifications
+## 🎓 Education
+
+**Bachelor of Technology in Information Technology**
+Rwanda Polytechnic, Musanze College, Rwanda
+
+---
+
+## 📜 Certifications
 
 | Certification | Issuer |
 |---|---|
@@ -126,6 +163,8 @@ Hands-on exploration of the ML workflow: data preparation, regression, model tra
 | Cybersecurity | DTP |
 | AI Career Essentials | ALX Africa |
 | EF SET English Certificate (B2, Upper Intermediate) | EF SET |
+
+**Languages:** English (B2, EF SET certified)
 
 ---
 
@@ -140,6 +179,8 @@ Hands-on exploration of the ML workflow: data preparation, regression, model tra
 
 ## 📫 Let's Connect
 
+I'm always happy to talk about building useful, secure software with people who enjoy solving real-world problems. The best ways to reach me:
+
 <p>
   <a href="https://pacifiqueniyogushimwa.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/pacifique-niyogushimwa-b689033ab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -149,4 +190,4 @@ Hands-on exploration of the ML workflow: data preparation, regression, model tra
   <a href="mailto:niyogushimwapacifique6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><i>Always happy to talk about building useful, secure software with people who enjoy solving real-world problems.</i></p>
+<p align="center"><i>Thanks for visiting my profile! ⭐ If you like what you see, feel free to follow or reach out.</i></p>
