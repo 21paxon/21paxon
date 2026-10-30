@@ -1,4 +1,4 @@
-<h1 align="center">Pacifique Niyogushimwa</h1>
+<h1 align="center">Pacifique NIYOGUSHIMWA</h1>
 <h3 align="center">Full-Stack Developer · Network Engineer · IoT & Cybersecurity Enthusiast</h3>
 
 <p align="center">
