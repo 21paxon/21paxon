@@ -1,193 +1,157 @@
-<h1 align="center">Pacifique NIYOGUSHIMWA</h1>
-<h3 align="center">Full-Stack Developer · Network Engineer · IoT & Cybersecurity Enthusiast</h3>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="100%" align="left">
+        <code>— <b>21paxon@github</b> .................................</code><br>
+        <code>. <b>Name:</b> ................... Pacifique Niyogushimwa</code><br>
+        <code>. <b>Role:</b> .... Full-Stack & IoT Systems Engineer</code><br>
+        <code>. <b>Edu:</b> ........... BTech IT @ RP Musanze College</code><br>
+        <code>. <b>Location:</b> ..................... Kigali, Rwanda</code><br><br>
+        <code>— <b>Contact & Links</b> ................................</code><br>
+        <code>. <b>Website:</b> ... https://pacifiqueniyogushimwa.netlify.app/</code><br>
+        <code>. <b>Email:</b> ... niyogushimwapacifique6@gmail.com</code><br>
+        <code>. <b>Instagram:</b> ........ instagram.com/__pacifique_</code><br>
+        <code>. <b>GitHub:</b> .................. github.com/21paxon</code><br>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  Kigali, Rwanda 🇷🇼<br/>
-  I build secure, reliable web, mobile, and backend systems, and connected IoT solutions backed by solid networking.
-</p>
-
-<p align="center">
-  <a href="https://pacifiqueniyogushimwa.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/pacifique-niyogushimwa-b689033ab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/21Paxon"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/__pacifique_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/paxonpa/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="mailto:niyogushimwapacifique6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-## 👋 Professional Summary
-
-I'm a developer trained in Information Technology at **Rwanda Polytechnic, Musanze College**. My work sits at the intersection of **software engineering, networking, and embedded devices**: I build REST APIs and full-stack web apps, an Android app, a USSD service, and IoT prototypes, with security treated as a design requirement rather than an afterthought.
-
-I care about systems that are **useful, secure, and reliable**, and I'm building on that foundation with Machine Learning and cybersecurity.
-
-### 🎯 What I Bring
-- **Full-stack delivery:** Java/Spring Boot and Node.js/Express backends with Angular, React, Next.js, and Kotlin (Android) clients.
-- **Security-minded engineering:** JWT authentication, role-based access control, rate-limited logins, parameterized queries, and audit logging.
-- **Database design:** PostgreSQL and MySQL schemas, migrations, and indexed relational models.
-- **Networking & infrastructure:** Cisco networking, Linux, and IT infrastructure, which gives me an end-to-end view of how systems are deployed and connected.
-- **IoT & embedded:** ESP32, sensors, and Wi-Fi connected devices reporting to web dashboards.
-- **Teamwork:** experience building projects in a team using Git and GitHub.
-
-### 🔭 Currently
-- Building the **Campus Security & Reporting System (CSRS)** with my team
-- Deepening Spring Boot and REST API design
-- Learning applied Machine Learning with Python and Scikit-learn
-
-### 🤝 Open To
-Internships and junior roles in **software development, backend engineering, networking, or IoT**, as well as collaboration on practical projects.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=21paxon&label=Profile%20views&color=007ACC&style=flat" alt="Profile views" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
 
-**Languages & Frameworks**
+Hi 👋, I'm **Pacifique Niyogushimwa**
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-</p>
+**Full-Stack Developer | Network Engineer | IoT Systems Specialist**
 
-**Databases, Networking & IoT**
+I build practical, secure software solutions—from web applications and REST APIs to enterprise network infrastructure and connected IoT devices.
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
-
-**Tools & Deployment**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-### Skills at a Glance
-
-| Area | Skills |
-|---|---|
-| 💻 **Backend** | REST API design, Spring Boot, Node.js/Express, authentication (JWT), role-based access control |
-| 🎨 **Frontend & Mobile** | Angular, React, Next.js, TypeScript, Android (Kotlin, Retrofit) |
-| 🗄️ **Data** | PostgreSQL, MySQL, schema design, migrations |
-| 🌐 **Networking & Systems** | Cisco networking, Linux, IT infrastructure |
-| 📡 **IoT** | ESP32, Arduino, sensors, Wi-Fi, web dashboards |
-| 🔐 **Security** | Secure system design, input validation, audit logging, cyber awareness |
-| 🤖 **AI / ML** | Python, Pandas, Scikit-learn: regression, training, prediction, evaluation |
-| 🧰 **Workflow** | Git/GitHub, Maven, API documentation, deployment on Netlify and Vercel |
+- 🎓 **Education:** Pursuing a Bachelor of Technology in IT at Rwanda Polytechnic (RP) Musanze College[cite: 6]
+- 👨‍🏫 **Currently:** Delivering hands-on training in software engineering & networking at Muhanga Technical Center[cite: 7]
+- 🔭 **Focus:** Java & Spring Boot backends, Node.js, Cisco networking, and embedded IoT (ESP32/Arduino)[cite: 7, 8]
+- 🤝 **Open To:** Full-stack, backend engineering, network administration, and IoT system opportunities
 
 ---
 
-## 🚀 Featured Projects
+### 🌐 Socials & Portfolio
 
-### 🛡️ Campus Security & Reporting System (CSRS) &nbsp;`Currently building`
-Team project for Rwanda Polytechnic, Musanze College that manages campus safety in one place.
-
-- **Incident reporting** with evidence uploads, including **anonymous reports** that can be tracked with an access code (stored only as a hash)
-- **Emergency panic alerts** with GPS location and response tracking
-- **Lost & found**, **visitor and gate control**, and **security patrol** management with QR checkpoints
-- **Dashboards and CSV reports** for management, plus a full **audit log** of every state-changing action
-- **Role-based access** for 7 user roles (Admin, Head of Security, Security Officer, College Management, Dean of Students, Staff, Student)
-- **Security hardening:** JWT + bcrypt, helmet, rate-limited login with account lockout, parameterized queries
-- **Quality:** transactional database migrations and a smoke-test suite of about 60 checks across every module
-
-**Stack:** Node.js · Express · PostgreSQL (Neon) · JWT · HTML/CSS/JavaScript
-🔗 [View repository](https://github.com/21paxon/csrs)
-
-### 🚌 Bus Booking System
-Full-stack web application for searching trips, booking tickets, and managing reservations, with an admin dashboard for routes, schedules, and users. Includes documented REST API endpoints and trip management notes.
-**Stack:** Java · Spring Boot · Angular · TypeScript · PostgreSQL · Maven
-🔗 [View repository](https://github.com/21paxon/busbooking)
-
-### 🏨 Hostel Management System
-Android app with a REST backend that lets administrators register and log in, manage students and hostel rooms, and assign students to rooms.
-**Stack:** Kotlin · Retrofit · Node.js · Express · PostgreSQL
-🔗 [View repository](https://github.com/21paxon/hms)
-
-### 📱 USSD BMI Calculator
-USSD-based service that calculates Body Mass Index from weight and height, returns the BMI category, and supports **English and Kinyarwanda**, making it accessible on any phone without internet.
-**Stack:** Node.js · Express
-🔗 [View repository](https://github.com/21paxon/ussdbmi-app)
-
-### 🌐 Personal Portfolio
-Modern portfolio website showcasing my projects and skills.
-**Stack:** Next.js · TypeScript
-🔗 [Live site](https://pacifiqueniyogushimwa.netlify.app/) · [Source](https://github.com/21paxon/portfolio_2)
-
-### 🔒 Smart Security System (IoT) &nbsp;`In development`
-Monitoring system for restricted spaces that detects movement and reports to a remote web dashboard.
-**Stack:** ESP32 · Sensors · Wi-Fi · Web Dashboard
-
-### 🤖 Machine Learning Practice
-Hands-on exploration of the ML workflow: data preparation, regression, model training, prediction, and evaluation.
-**Stack:** Python · Pandas · Scikit-learn
-🔗 [View repository](https://github.com/21paxon/ML_Project)
-
-> More work, including an Angular employee app and Spring Boot / React CRUD practice, is on my [GitHub profile](https://github.com/21paxon?tab=repositories).
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://pacifiqueniyogushimwa.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pacifique-niyogushimwa-b689033ab)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/21paxon)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyogushimwapacifique6@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__pacifique_/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/21Paxon)
 
 ---
 
-## 🎓 Education
+### 💻 Tech Stack & Capabilities
 
-**Bachelor of Technology in Information Technology**
-Rwanda Polytechnic, Musanze College, Rwanda
+#### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+#### **Databases, Networking & Systems**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+#### **Deployment & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-## 📜 Certifications
+### 💼 Career & Experience
 
-| Certification | Issuer |
-|---|---|
-| Software Development | DTP |
-| Cybersecurity | DTP |
-| AI Career Essentials | ALX Africa |
-| EF SET English Certificate (B2, Upper Intermediate) | EF SET |
+#### **IT Instructor** | *Muhanga Technical Center*
+`Sep 2025 – Present` • *Muhanga, Rwanda*[cite: 7]
+- 🎓 **Technical Training:** Deliver hands-on instruction in software engineering, networking, and IT fundamentals[cite: 7].
+- 💡 **Project Supervision:** Guide student software architectures, enforcing clean code, database conventions, and version control standards[cite: 7].
+- 🛠️ **System Engineering:** Mentor students in practical troubleshooting, hardware integration, and full-stack development workflows[cite: 7].
+- `Tech Stack:` Java • Spring Boot • Angular • Linux • Cisco Networking
 
-**Languages:** English (B2, EF SET certified)
+#### **IT Consultant** | *Rwanda Information Society Authority (RISA)*
+`2025` • *Kigali, Rwanda*[cite: 7]
+- 🌐 **Infrastructure Deployment:** Supported configuration and maintenance for public-sector IT infrastructure and enterprise network services[cite: 7].
+- ⚡ **Optimization:** Identified hardware/software bottlenecks to elevate system availability, operational throughput, and uptime[cite: 7].
+- 🛡️ **Network Security:** Resolved critical network failures and configured security controls across operational systems[cite: 7].
+- `Tech Stack:` System Administration • Active Directory • Network Security • Enterprise Hardware
+
+#### **IT Support Specialist** | *VTC Ltd*
+`2024` • *Rwanda*[cite: 7]
+- 🔧 **Operations Support:** Provided Tier-2 technical support across workstations, network endpoints, and system software[cite: 7].
+- ⏱️ **Uptime Maintenance:** Executed system updates, security patches, and network configurations to minimize downtime[cite: 7].
+- `Tech Stack:` Hardware Diagnostics • Network Configuration • OS Maintenance • Technical Support
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Engineering Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=21paxon&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21paxon&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
+#### 🛡️ [Campus Security & Reporting System (CSRS)](https://github.com/21paxon/csrs) `Currently Building`
+- Incident reporting engine with anonymous access-code tracking (hashed), panic alerts with GPS telemetry, and visitor checkpoint control.
+- Full audit logging across 7 role-based access levels, security hardening (JWT, bcrypt, rate limiting), and transactional database migrations.
+- `Tech Stack:` Node.js • Express • PostgreSQL (Neon) • JWT • JavaScript
+
+#### 🚌 [Bus Booking System](https://github.com/21paxon/busbooking)
+- RESTful web platform for ticket reservations, route planning, schedule management, and administrative analytics.
+- `Tech Stack:` Java • Spring Boot • Angular • TypeScript • PostgreSQL • Maven
+
+#### 🏨 [Hostel Management System (HMS)](https://github.com/21paxon/hms)
+- Android application integrated with a Node.js REST API for managing student room assignments, registration, and administrative controls.
+- `Tech Stack:` Kotlin • Retrofit • Node.js • Express • PostgreSQL
+
+#### 📱 [USSD BMI Calculator App](https://github.com/21paxon/ussdbmi-app)
+- Offline-accessible USSD service calculating Body Mass Index in English and Kinyarwanda across low-spec devices.
+- `Tech Stack:` Node.js • Express • USSD Gateway
+
+#### 🤖 [Machine Learning Practice](https://github.com/21paxon/ML_Project)
+- Practical exploratory repository covering data preparation, regression models, model evaluation, and predictions.
+- `Tech Stack:` Python • Pandas • Scikit-Learn
 
 ---
 
-## 📫 Let's Connect
+### 🎓 Education & Credentials
 
-I'm always happy to talk about building useful, secure software with people who enjoy solving real-world problems. The best ways to reach me:
+- **Bachelor of Technology in Information Technology** — RP Musanze College (*In Progress*)[cite: 6]
+- **Software Development Certification** (DTP)[cite: 6] | **Cybersecurity Certification** (DTP)[cite: 6]
+- **AI Career Essentials** — ALX Africa[cite: 6] | **EF SET English Certificate** (B2 Upper Intermediate)[cite: 6]
 
-<p>
-  <a href="https://pacifiqueniyogushimwa.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/pacifique-niyogushimwa-b689033ab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/21Paxon"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/__pacifique_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/paxonpa/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="mailto:niyogushimwapacifique6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+---
 
-<p align="center"><i>Thanks for visiting my profile! ⭐ If you like what you see, feel free to follow or reach out.</i></p>
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=21paxon&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21paxon&layout=compact&theme=dark&hide_border=true&title_color=007ACC&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 📫 Let's Connect
+
+- ✉️ **Email:** [niyogushimwapacifique6@gmail.com](mailto:niyogushimwapacifique6@gmail.com)
+- 🌐 **Portfolio:** [pacifiqueniyogushimwa.netlify.app](https://pacifiqueniyogushimwa.netlify.app/)
+- 💼 **LinkedIn:** [pacifique-niyogushimwa-b689033ab](https://linkedin.com/in/pacifique-niyogushimwa-b689033ab)
+- 📸 **Instagram:** [__pacifique_](https://instagram.com/__pacifique_/)
+- 🐦 **X (Twitter):** [@21Paxon](https://x.com/21Paxon)
