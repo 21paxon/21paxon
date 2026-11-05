@@ -1,12 +1,13 @@
  <div align="center">
 
 # PACIFIQUE NIYOGUSHIMWA
+
 ### Software Engineer | Full-Stack Developer | Network & IoT Systems Specialist
 
-**Designing, Developing & Deploying Practical Technology Solutions**
+Building reliable software, connected systems, and practical technology solutions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pacifiqueniyogushimwa.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-21Paxon-181717?style=for-the-badge&logo=github)](https://github.com/21paxon)
+[![GitHub](https://img.shields.io/badge/GitHub-21paxon-181717?style=for-the-badge&logo=github)](https://github.com/21paxon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pacifique-niyogushimwa-b689033ab)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyogushimwapacifique6@gmail.com)
 
@@ -18,255 +19,215 @@
 
 ## Professional Profile
 
-I am **Pacifique Niyogushimwa**, a technology professional from Rwanda with a background in Information Technology and a strong interest in building reliable, scalable, and practical technology solutions.
+I am **Pacifique Niyogushimwa**, an IT professional and software developer from Rwanda, passionate about engineering practical solutions through software, networking, and emerging technologies.
 
-My technical interests and experience span software engineering, full-stack application development, backend systems, computer networking, IT infrastructure, and Internet of Things (IoT).
+My background covers full-stack application development, backend engineering, database management, computer networking, IT infrastructure, and Internet of Things (IoT).
 
-I enjoy working across the software development lifecycle, from understanding requirements and designing system architecture to implementing APIs, managing databases, integrating hardware, testing applications, and deploying solutions.
+I enjoy working across the software development lifecycle, from system analysis and architecture to implementation, testing, deployment, and maintenance.
 
-I am also expanding my capabilities in DevOps, cloud technologies, and Machine Learning.
+I am also expanding my knowledge in DevOps, cloud technologies, and Machine Learning.
 
-**Professional Interests**
-- Software Engineering and Full-Stack Development
-- Backend Engineering and RESTful API Development
+### Core Competencies
+
+- Full-Stack and Backend Software Development
+- RESTful API Design and Development
 - Database Design and Management
-- Network Engineering and IT Infrastructure
-- Internet of Things and Embedded Systems
-- DevOps, CI/CD and Software Deployment
-- Machine Learning and Data Science
-- System Security and Technical Support
+- Computer Networking and IT Infrastructure
+- Linux and Windows System Administration
+- Network Configuration and Troubleshooting
+- IoT and Embedded Systems Development
+- Version Control and Collaborative Development
+- Software Deployment and CI/CD Fundamentals
+- Data Analysis and Machine Learning Fundamentals
 
 **Location:** Kigali, Rwanda  
 **Education:** Bachelor of Technology in Information Technology — Rwanda Polytechnic, Musanze College  
-**Professional Availability:** Open to software engineering, IT infrastructure, networking, and IoT opportunities.
+**Professional Interests:** Software Engineering, Backend Development, Network Engineering, IoT, DevOps and Machine Learning.
 
 ---
 
-## Technical Expertise
+## Technical Skills
 
-### 1. Programming Languages
+### Programming Languages
 
-| Technology | Application |
-|---|---|
-| Java | Object-oriented programming and backend development |
-| JavaScript | Web development and backend applications |
-| TypeScript | Type-safe application development |
-| Python | Automation, data processing and machine learning |
-| Kotlin | Android application development |
-| R | Statistical computing and data analysis |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 2. Backend Development
+### Backend Development
 
-- Java and Spring Boot
-- Node.js and Express.js
-- RESTful API design and development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+- RESTful API development
 - Authentication and authorization
-- JWT-based authentication
-- Role-Based Access Control (RBAC)
-- API integration and backend architecture
-- Server-side application development
-- Database connectivity and transaction management
+- JWT and role-based access control
+- Backend architecture
+- Database integration
+- API testing and debugging
 
-### 3. Frontend Development
+### Frontend Development
 
-- Angular
-- React
-- Next.js
-- HTML5 and CSS3
-- JavaScript and TypeScript
-- Responsive web design
-- API integration
-- Component-based application development
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 4. Database Management
+- Responsive web application development
+- Component-based architecture
+- Frontend and backend integration
+- Type-safe application development
 
-- PostgreSQL
-- MySQL
+### Database Management
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 - Relational database design
-- Database normalization
 - SQL queries and data manipulation
-- Database migrations
-- Entity relationships and schema design
-- Data validation and integrity
+- Database normalization
+- Schema design and migrations
+- Data integrity and relationships
 
-### 5. Networking and IT Infrastructure
+### Networking and IT Infrastructure
 
-- Cisco networking technologies
-- LAN and WAN configuration concepts
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 - TCP/IP networking
 - IP addressing and subnetting
 - Routing and switching
-- VLAN configuration concepts
+- LAN and WAN technologies
+- VLAN fundamentals
 - Network troubleshooting
 - Network security fundamentals
-- Linux system administration
-- Windows system administration
-- Hardware and software troubleshooting
-- IT technical support
+- Linux and Windows administration
+- Hardware and software support
 
-### 6. Internet of Things (IoT) and Embedded Systems
+### IoT and Embedded Systems
 
-- ESP32 microcontrollers
-- Arduino development
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+- Microcontroller programming
 - Sensor integration
 - GPIO interfacing
-- Embedded programming
 - Wi-Fi communication
+- Embedded systems
 - Hardware and software integration
 - IoT monitoring and automation
-- Microcontroller-based security systems
 
-### 7. DevOps and Software Engineering Practices
+### DevOps and Development Tools
 
-- Git and GitHub
-- Branch-based development
-- GitHub Pull Requests and code reviews
-- Version control and collaboration
-- CI/CD pipeline concepts
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+- Git branching and collaboration
+- GitHub repositories and Pull Requests
+- CI/CD pipeline fundamentals
 - GitHub Actions
 - Application deployment
-- Environment configuration
-- Software testing and debugging
-- Agile development fundamentals
+- Build and dependency management
 
-### 8. Machine Learning and Data Analytics
+### Data Science and Machine Learning
 
-- Python for data analysis
-- Pandas and NumPy
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 - Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis
 - Feature engineering
-- Scikit-learn
 - Regression and classification fundamentals
-- Model evaluation
-- Statistical analysis with R
+- Model training and evaluation
+- Statistical analysis using R
 
 ---
 
-## Technology Stack
+## Featured Projects
 
-<div align="center">
+### 1. Campus Security and Reporting System (CSRS)
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-**Databases & Data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Networking & Embedded Systems**
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-**Development & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-</div>
-
----
-
-## Selected Engineering Projects
-
-### 01. Campus Security and Reporting System (CSRS)
-
-**Repository:** [21paxon/csrs](https://github.com/21paxon/csrs)
+[View Repository](https://github.com/21paxon/csrs)
 
 A centralized security and incident management platform designed for Rwanda Polytechnic, Musanze College.
 
-**Key Engineering Contributions**
-- Anonymous incident reporting and access-code tracking.
-- Emergency panic alert functionality.
-- Visitor registration and security checkpoint management.
-- Role-based access control across multiple user categories.
-- Security audit logging and incident tracking.
-- Database migrations and backend security implementation.
+**Key Features**
+- Anonymous incident reporting.
+- Emergency panic alerts.
+- Visitor registration and checkpoint management.
+- Role-based access control.
+- Incident tracking and audit logging.
+- Secure authentication and database management.
 
 **Technologies:** Node.js, Express.js, PostgreSQL, JWT, JavaScript.
 
-### 02. Bus Booking and Management System
+### 2. Bus Booking System
 
-**Repository:** [21paxon/busbooking](https://github.com/21paxon/busbooking)
+[View Repository](https://github.com/21paxon/busbooking)
 
-A full-stack transportation management platform for managing bus schedules, routes, and passenger reservations.
+A full-stack transportation management platform for managing bus routes, schedules, and passenger reservations.
 
 **Key Features**
-- RESTful backend services.
-- User authentication and authorization.
 - Bus route and schedule management.
-- Passenger booking and reservation management.
-- Administrative management functionality.
-- Angular frontend integration.
+- Passenger booking and reservations.
+- User authentication.
+- RESTful API integration.
+- Administrative management.
 
 **Technologies:** Java, Spring Boot, Angular, TypeScript, PostgreSQL, Maven.
 
-### 03. Hostel Management System
+### 3. Hostel Management System
 
-**Repository:** [21paxon/hms](https://github.com/21paxon/hms)
+[View Repository](https://github.com/21paxon/hms)
 
-An Android-based hostel management application integrated with a backend REST API.
+An Android application integrated with a backend REST API for managing student accommodation.
 
 **Key Features**
-- Student registration and management.
+- Student registration.
 - Hostel room allocation.
-- Backend API integration.
-- Mobile application communication with server-side services.
+- Mobile application and backend integration.
+- Data management and administration.
 
 **Technologies:** Kotlin, Android, Retrofit, Node.js, Express.js, PostgreSQL.
 
-### 04. USSD BMI Calculator
+### 4. USSD BMI Calculator
 
-**Repository:** [21paxon/ussdbmi-app](https://github.com/21paxon/ussdbmi-app)
+[View Repository](https://github.com/21paxon/ussdbmi-app)
 
-A mobile-accessible USSD application that calculates Body Mass Index using interactive USSD menus.
+A USSD-based application that calculates Body Mass Index through interactive mobile menus.
 
 **Key Features**
 - English and Kinyarwanda language support.
-- USSD-based interaction.
+- Interactive USSD menus.
 - Backend request processing.
 - Accessibility through basic mobile phones.
 
 **Technologies:** Node.js, Express.js, USSD Gateway.
 
-### 05. Machine Learning Practice
+### 5. Machine Learning Practice
 
-**Repository:** [21paxon/ML_Project](https://github.com/21paxon/ML_Project)
+[View Repository](https://github.com/21paxon/ML_Project)
 
-A practical machine learning learning environment focused on understanding data preparation and predictive modelling.
+A practical repository for exploring machine learning and predictive modelling.
 
 **Areas of Exploration**
-- Data preprocessing.
+- Data preparation and preprocessing.
 - Exploratory data analysis.
 - Feature engineering.
 - Regression and classification.
-- Model training and evaluation.
+- Model evaluation and prediction.
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn.
 
@@ -274,11 +235,10 @@ A practical machine learning learning environment focused on understanding data 
 
 ## Professional Experience
 
-### IT Instructor
-**Muhanga Technical Center (MTC)** | Muhanga, Rwanda  
-*September 2025 – 2026*
+### IT Instructor — Muhanga Technical Center
+*Muhanga, Rwanda | September 2025 – 2026*
 
-- Delivered practical instruction in software development, computer networking, and IT fundamentals.
+- Delivered practical training in software development, computer networking, and IT fundamentals.
 - Guided learners through programming exercises and software development projects.
 - Supported practical learning in database management and network configuration.
 - Introduced collaborative development practices using Git and GitHub.
@@ -307,15 +267,13 @@ Rwanda Polytechnic
 
 ---
 
-## Current Learning & Professional Development
+## Current Learning and Development
 
-I believe in continuous learning and regularly explore technologies that improve my engineering capabilities.
+I continuously explore new technologies and engineering practices to strengthen my ability to design, develop, and deploy reliable systems.
 
-My current areas of development include:
-
-- **DevOps:** CI/CD automation, GitHub Actions, Linux, deployment workflows and containerization.
+- **DevOps:** CI/CD, GitHub Actions, Linux, automation and deployment workflows.
 - **Machine Learning:** Python, data preprocessing, predictive modelling and Scikit-learn.
-- **Software Architecture:** Scalable backend systems, clean code and secure application design.
+- **Software Engineering:** System architecture, secure development and software quality.
 - **Cloud Technologies:** Application hosting, infrastructure and deployment practices.
 
 ---
@@ -324,11 +282,8 @@ My current areas of development include:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=21paxon&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21paxon&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
-
-<img src="https://streak-stats.demolab.com?user=21paxon&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="./profile/stats.svg" alt="GitHub Statistics" width="49%" />
+<img src="./profile/top-langs.svg" alt="Most Used Languages" width="49%" />
 
 </div>
 
@@ -336,14 +291,14 @@ My current areas of development include:
 
 ## Connect With Me
 
-I'm open to professional connections, software engineering opportunities, technical collaborations, and projects involving emerging technologies.
+I welcome opportunities to collaborate with developers, engineers, technology professionals, and organizations building practical solutions.
 
-- **Portfolio:** https://pacifiqueniyogushimwa.netlify.app/
-- **GitHub:** https://github.com/21paxon
-- **LinkedIn:** https://linkedin.com/in/pacifique-niyogushimwa-b689033ab
-- **Email:** niyogushimwapacifique6@gmail.com
-- **Instagram:** https://instagram.com/__pacifique_/
-- **X:** https://x.com/21Paxon
+- **Portfolio:** [pacifiqueniyogushimwa.netlify.app](https://pacifiqueniyogushimwa.netlify.app/)
+- **GitHub:** [github.com/21paxon](https://github.com/21paxon)
+- **LinkedIn:** [Pacifique Niyogushimwa](https://linkedin.com/in/pacifique-niyogushimwa-b689033ab)
+- **Email:** [niyogushimwapacifique6@gmail.com](mailto:niyogushimwapacifique6@gmail.com)
+- **Instagram:** [@__pacifique_](https://instagram.com/__pacifique_/)
+- **X:** [@21Paxon](https://x.com/21Paxon)
 
 <div align="center">
 
