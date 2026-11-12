@@ -6,7 +6,7 @@
 
 *I build reliable software, connected systems, and practical technology solutions.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pacifiqueniyogushimwa.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pacifiqueniyogushimwa.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-21paxon-181717?style=for-the-badge&logo=github)](https://github.com/21paxon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pacifique-niyogushimwa-b689033ab)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyogushimwapacifique6@gmail.com)
