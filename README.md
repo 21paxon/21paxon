@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0A66C2&height=170&section=header&text=Pacifique%20Niyogushimwa&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Network%20%26%20IoT&descSize=16&descAlignY=60" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0A66C2&height=170&section=header&text=Pacifique%20Niyogushimwa&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Network%20and%20IoT&descSize=16&descAlignY=60" alt="Banner" width="100%"/>
 
 <a href="https://github.com/21paxon">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=640&lines=I+build+reliable+software;I+connect+devices+with+ESP32+%26+Arduino;I+design+and+secure+networks;Now+learning+DevOps%2C+Cloud+%26+ML" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=640&lines=I+build+reliable+software;I+connect+devices+with+ESP32+and+Arduino;I+design+and+secure+networks;Now+learning+DevOps%2C+Cloud+and+ML" alt="Typing intro"/>
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pacifiqueniyogushimwa.vercel.app/)
