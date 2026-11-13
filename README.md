@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0A66C2&height=170&section=header&text=Pacifique%20Niyogushimwa&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Network%20and%20IoT&descSize=16&descAlignY=60" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0A66C2&height=170&section=header&text=Pacifique%20NIYOGUSHIMWA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Network%20and%20IoT&descSize=16&descAlignY=60" alt="Banner" width="100%"/>
 
 <a href="https://github.com/21paxon">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=640&lines=I+build+reliable+software;I+connect+devices+with+ESP32+and+Arduino;I+design+and+secure+networks;Now+learning+DevOps%2C+Cloud+and+ML" alt="Typing intro"/>
