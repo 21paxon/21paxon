@@ -1,10 +1,10 @@
 <div align="center">
 
-# Pacifique Niyogushimwa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0A66C2&height=170&section=header&text=Pacifique%20Niyogushimwa&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Network%20%26%20IoT&descSize=16&descAlignY=60" alt="Banner" width="100%"/>
 
-### Software Engineer · Full-Stack Developer · Network & IoT Specialist
-
-*I build reliable software, connected systems, and practical technology solutions.*
+<a href="https://github.com/21paxon">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=640&lines=I+build+reliable+software;I+connect+devices+with+ESP32+%26+Arduino;I+design+and+secure+networks;Now+learning+DevOps%2C+Cloud+%26+ML" alt="Typing intro"/>
+</a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pacifiqueniyogushimwa.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-21paxon-181717?style=for-the-badge&logo=github)](https://github.com/21paxon)
@@ -12,6 +12,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyogushimwapacifique6@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=21paxon&label=PROFILE+VIEWS&color=007ACC&style=flat-square" alt="Profile views"/>
+<a href="https://github.com/21paxon?tab=followers"><img src="https://img.shields.io/github/followers/21paxon?label=Followers&style=flat-square&color=007ACC&logo=github" alt="Followers"/></a>
+<a href="https://github.com/21paxon?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F21paxon&query=%24.public_repos&label=Public%20repos&style=flat-square&color=007ACC&logo=github" alt="Public repos"/></a>
 
 </div>
 
@@ -95,13 +97,15 @@ I work across the full development lifecycle: analysis, architecture, implementa
 
 ## Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Campus Security & Reporting System**](https://github.com/21paxon/csrs) | Centralized security and incident platform for Rwanda Polytechnic, Musanze College: anonymous reporting, emergency panic alerts, visitor and checkpoint management, audit logging | Node.js · Express · PostgreSQL · JWT |
-| [**Bus Booking System**](https://github.com/21paxon/busbooking) | Full-stack platform for managing bus routes, schedules, and passenger reservations, with an admin dashboard | Java · Spring Boot · Angular · TypeScript · PostgreSQL |
-| [**Hostel Management System**](https://github.com/21paxon/hms) | Android app with a REST backend for student registration and hostel room allocation | Kotlin · Retrofit · Node.js · PostgreSQL |
-| [**USSD BMI Calculator**](https://github.com/21paxon/ussdbmi-app) | Menu-driven BMI calculator in English and Kinyarwanda, accessible from any basic phone | Node.js · Express · USSD Gateway |
-| [**Machine Learning Practice**](https://github.com/21paxon/ML_Project) | Hands-on exploration of preprocessing, EDA, feature engineering, regression, and classification | Python · Pandas · NumPy · scikit-learn |
+| Project | What it does | Stack | Live status |
+|---|---|---|---|
+| [**Campus Security & Reporting System**](https://github.com/21paxon/csrs) | Centralized security and incident platform for Rwanda Polytechnic, Musanze College: anonymous reporting, emergency panic alerts, visitor and checkpoint management, audit logging | Node.js · Express · PostgreSQL · JWT | ![Last commit](https://img.shields.io/github/last-commit/21paxon/csrs?style=flat-square&color=007ACC) ![Stars](https://img.shields.io/github/stars/21paxon/csrs?style=flat-square&color=007ACC) |
+| [**Bus Booking System**](https://github.com/21paxon/busbooking) | Full-stack platform for managing bus routes, schedules, and passenger reservations, with an admin dashboard | Java · Spring Boot · Angular · TypeScript · PostgreSQL | ![Last commit](https://img.shields.io/github/last-commit/21paxon/busbooking?style=flat-square&color=007ACC) ![Stars](https://img.shields.io/github/stars/21paxon/busbooking?style=flat-square&color=007ACC) |
+| [**Hostel Management System**](https://github.com/21paxon/hms) | Android app with a REST backend for student registration and hostel room allocation | Kotlin · Retrofit · Node.js · PostgreSQL | ![Last commit](https://img.shields.io/github/last-commit/21paxon/hms?style=flat-square&color=007ACC) ![Stars](https://img.shields.io/github/stars/21paxon/hms?style=flat-square&color=007ACC) |
+| [**USSD BMI Calculator**](https://github.com/21paxon/ussdbmi-app) | Menu-driven BMI calculator in English and Kinyarwanda, accessible from any basic phone | Node.js · Express · USSD Gateway | ![Last commit](https://img.shields.io/github/last-commit/21paxon/ussdbmi-app?style=flat-square&color=007ACC) ![Stars](https://img.shields.io/github/stars/21paxon/ussdbmi-app?style=flat-square&color=007ACC) |
+| [**Machine Learning Practice**](https://github.com/21paxon/ML_Project) | Hands-on exploration of preprocessing, EDA, feature engineering, regression, and classification | Python · Pandas · NumPy · scikit-learn | ![Last commit](https://img.shields.io/github/last-commit/21paxon/ML_Project?style=flat-square&color=007ACC) ![Stars](https://img.shields.io/github/stars/21paxon/ML_Project?style=flat-square&color=007ACC) |
+
+**More on my GitHub:** [crudsringboot](https://github.com/21paxon/crudsringboot) · [employee-app](https://github.com/21paxon/employee-app) · [portfolio_2](https://github.com/21paxon/portfolio_2)
 
 <details>
 <summary><b>Project highlights</b></summary>
@@ -125,6 +129,22 @@ I work across the full development lifecycle: analysis, architecture, implementa
 - Works on feature phones, with no smartphone or data plan needed
 
 </details>
+
+---
+
+## Latest Repositories
+
+*Updated automatically from my GitHub account.*
+
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>Last refreshed: <!--START_SECTION:updated-->never<!--END_SECTION:updated--></sub>
 
 ---
 
@@ -170,8 +190,14 @@ I work across the full development lifecycle: analysis, architecture, implementa
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="GitHub Statistics" width="49%" />
-<img src="./profile/top-langs.svg" alt="Most Used Languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=21paxon&show_icons=true&hide_border=true&theme=transparent&title_color=007ACC&icon_color=007ACC&text_color=6e7681&count_private=true" alt="GitHub Statistics" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21paxon&layout=compact&hide_border=true&theme=transparent&title_color=007ACC&text_color=6e7681&langs_count=8" alt="Most Used Languages" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=21paxon&hide_border=true&theme=transparent&ring=007ACC&fire=007ACC&currStreakLabel=007ACC&sideLabels=6e7681&currStreakNum=6e7681&sideNums=6e7681&dates=6e7681" alt="Contribution streak" width="70%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/21paxon/21paxon/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
@@ -181,7 +207,7 @@ I work across the full development lifecycle: analysis, architecture, implementa
 
 I'm open to collaborating with developers, engineers, and organizations building practical solutions.
 
-- 🌐 [Portfolio](https://pacifiqueniyogushimwa.netlify.app/)
+- 🌐 [Portfolio](https://pacifiqueniyogushimwa.vercel.app/)
 - 💻 [GitHub](https://github.com/21paxon)
 - 💼 [LinkedIn](https://linkedin.com/in/pacifique-niyogushimwa-b689033ab)
 - ✉️ [niyogushimwapacifique6@gmail.com](mailto:niyogushimwapacifique6@gmail.com)
